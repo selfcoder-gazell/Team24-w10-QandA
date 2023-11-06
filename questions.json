@@ -1,0 +1,19 @@
+[
+{"Q": "What is React?", "A": "React is a JavaScript library for building user interfaces. It allows you to create reusable UI components."}
+{"Q": "What is JSX in React?", "A": "JSX is a syntax extension for JavaScript that allows you to write HTML-like code within your JavaScript code in React."}
+{"Q": "What is a component in React?", "A": "A component is a reusable building block in React that encapsulates the UI logic and can be composed together to build complex user interfaces."}
+{"Q": "What is the virtual DOM in React?", "A": "The virtual DOM is a lightweight copy of the actual DOM in memory. React uses it to efficiently update and render components without directly manipulating the real DOM."}
+
+{"Q": "What is the difference between functional components and class components in React?", "A": "Functional components are simpler and rely on JavaScript functions, while class components are more powerful and can have additional features like state and lifecycle methods."}
+
+{"Q": "What is state in React?", "A": "State is an object that holds data within a component. When the state changes, React automatically re-renders the component to reflect the updated data."}
+
+{"Q": "What are props in React?", "A": "Props (short for properties) are inputs to a component. They allow you to pass data from a parent component to its child components."}
+
+{"Q": "What is the purpose of the render() method in React?", "A": "The render() method is responsible for returning the JSX that represents the component’s UI. It is called automatically when the component needs to be re-rendered."}
+
+{"Q": "What are React hooks?", "A": "React hooks are functions that allow you to add state and other React features to functional components. They were introduced in React 16.8 as a way to use state and other React features without writing a class."}
+
+{"Q": "How do you handle events in React?", "A": "In React, you can attach event handlers to DOM elements using JSX syntax. You define event handler functions and pass them as props to the respective elements."
+}
+]
