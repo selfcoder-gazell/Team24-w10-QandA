@@ -1,19 +1,52 @@
 [
-{"Q": "What is React?", "A": "React is a JavaScript library for building user interfaces. It allows you to create reusable UI components."}
-{"Q": "What is JSX in React?", "A": "JSX is a syntax extension for JavaScript that allows you to write HTML-like code within your JavaScript code in React."}
-{"Q": "What is a component in React?", "A": "A component is a reusable building block in React that encapsulates the UI logic and can be composed together to build complex user interfaces."}
-{"Q": "What is the virtual DOM in React?", "A": "The virtual DOM is a lightweight copy of the actual DOM in memory. React uses it to efficiently update and render components without directly manipulating the real DOM."}
-
-{"Q": "What is the difference between functional components and class components in React?", "A": "Functional components are simpler and rely on JavaScript functions, while class components are more powerful and can have additional features like state and lifecycle methods."}
-
-{"Q": "What is state in React?", "A": "State is an object that holds data within a component. When the state changes, React automatically re-renders the component to reflect the updated data."}
-
-{"Q": "What are props in React?", "A": "Props (short for properties) are inputs to a component. They allow you to pass data from a parent component to its child components."}
-
-{"Q": "What is the purpose of the render() method in React?", "A": "The render() method is responsible for returning the JSX that represents the component’s UI. It is called automatically when the component needs to be re-rendered."}
-
-{"Q": "What are React hooks?", "A": "React hooks are functions that allow you to add state and other React features to functional components. They were introduced in React 16.8 as a way to use state and other React features without writing a class."}
-
-{"Q": "How do you handle events in React?", "A": "In React, you can attach event handlers to DOM elements using JSX syntax. You define event handler functions and pass them as props to the respective elements."
-}
+  {
+    "id": "f66188a2-05e9-4b00-99dd-b16d503116ee",
+    "Q": "What is React?",
+    "A": "React is a JavaScript library for building user interfaces. It allows you to create reusable UI components."
+  },
+  {
+    "id": "ff0e123e-8594-4763-b3e1-2fff45177ca5",
+    "Q": "What is JSX in React?",
+    "A": "JSX is a syntax extension for JavaScript that allows you to write HTML-like code within your JavaScript code in React."
+  },
+  {
+    "id": "781e98b9-7341-4994-9133-a63d926942ba",
+    "Q": "What is a component in React?",
+    "A": "A component is a reusable building block in React that encapsulates the UI logic and can be composed together to build complex user interfaces."
+  },
+  {
+    "id": "4f0d8685-7fc8-484b-8f01-5468eea94be3",
+    "Q": "What is the virtual DOM in React?",
+    "A": "The virtual DOM is a lightweight copy of the actual DOM in memory. React uses it to efficiently update and render components without directly manipulating the real DOM."
+  },
+  {
+    "id": "9623e185-5cf0-47bb-9d00-cdb4fe3cec75",
+    "Q": "What is the difference between functional components and class components in React?",
+    "A": "Functional components are simpler and rely on JavaScript functions, while class components are more powerful and can have additional features like state and lifecycle methods."
+  },
+  {
+    "id": "79c316d7-7344-4449-a360-a345a06dd96d",
+    "Q": "What is state in React?",
+    "A": "State is an object that holds data within a component. When the state changes, React automatically re-renders the component to reflect the updated data."
+  },
+  {
+    "id": "8817da14-03cf-427f-99a8-b60dab47a487",
+    "Q": "What are props in React?",
+    "A": "Props (short for properties) are inputs to a component. They allow you to pass data from a parent component to its child components."
+  },
+  {
+    "id": "bf541b4c-0acc-4989-9e8e-29125e7ce75c",
+    "Q": "What is the purpose of the render() method in React?",
+    "A": "The render() method is responsible for returning the JSX that represents the component’s UI. It is called automatically when the component needs to be re-rendered."
+  },
+  {
+    "id": "b424c6fc-8118-48aa-a70c-27e9c610ca5b",
+    "Q": "What are React hooks?",
+    "A": "React hooks are functions that allow you to add state and other React features to functional components. They were introduced in React 16.8 as a way to use state and other React features without writing a class."
+  },
+  {
+    "id": "f1209ceb-231a-4d29-b12b-521be353c9e5",
+    "Q": "How do you handle events in React?",
+    "A": "In React, you can attach event handlers to DOM elements using JSX syntax. You define event handler functions and pass them as props to the respective elements."
+  }
 ]
